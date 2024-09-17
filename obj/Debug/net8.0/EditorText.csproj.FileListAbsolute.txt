@@ -1,0 +1,14 @@
+C:\CursoDEV\EditorText\bin\Debug\net8.0\EditorText.exe
+C:\CursoDEV\EditorText\bin\Debug\net8.0\EditorText.deps.json
+C:\CursoDEV\EditorText\bin\Debug\net8.0\EditorText.runtimeconfig.json
+C:\CursoDEV\EditorText\bin\Debug\net8.0\EditorText.dll
+C:\CursoDEV\EditorText\bin\Debug\net8.0\EditorText.pdb
+C:\CursoDEV\EditorText\obj\Debug\net8.0\EditorText.GeneratedMSBuildEditorConfig.editorconfig
+C:\CursoDEV\EditorText\obj\Debug\net8.0\EditorText.AssemblyInfoInputs.cache
+C:\CursoDEV\EditorText\obj\Debug\net8.0\EditorText.AssemblyInfo.cs
+C:\CursoDEV\EditorText\obj\Debug\net8.0\EditorText.csproj.CoreCompileInputs.cache
+C:\CursoDEV\EditorText\obj\Debug\net8.0\EditorText.dll
+C:\CursoDEV\EditorText\obj\Debug\net8.0\refint\EditorText.dll
+C:\CursoDEV\EditorText\obj\Debug\net8.0\EditorText.pdb
+C:\CursoDEV\EditorText\obj\Debug\net8.0\EditorText.genruntimeconfig.cache
+C:\CursoDEV\EditorText\obj\Debug\net8.0\ref\EditorText.dll
